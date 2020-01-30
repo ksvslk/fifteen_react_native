@@ -13,7 +13,7 @@ Install packages :
 ```
 npm install
 ```
-When installation is complete, run with version of your choice (emulator / simulator / device must be open or connected):
+When installation is complete, run with version of your choice (emulator/simulator/device must be open or connected):
 ```
 react-native run-ios
 ```
